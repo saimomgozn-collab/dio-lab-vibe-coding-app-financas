@@ -26,11 +26,9 @@ Usuários iniciantes desistem de apps financeiros devido à complexidade de pree
 - Plano de validação do MVP.
 
 Interações com a IA
-Aqui você insere os prints que tirou do Lovable ou Copilot demonstrando o layout e o fluxo gerado.
 <img width="1351" height="677" alt="image" src="https://github.com/user-attachments/assets/33db475c-d633-434f-a1a0-940c1d0f1f21" />
 <img width="1348" height="667" alt="image" src="https://github.com/user-attachments/assets/b569704f-6e59-46e5-860d-2c2a8480bbd6" />
-
-
+<img width="928" height="528" alt="image" src="https://github.com/user-attachments/assets/0035f2e0-0045-4bc8-aa80-fb6a3b0154c7" />
 
 
 Reflexão sobre o Processo
